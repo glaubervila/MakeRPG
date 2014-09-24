@@ -18,6 +18,8 @@ public class MyService extends Service {
     public boolean isRunning = false;
 
     public MyService() {
+//        Exemplo Retirado
+//        http://www.coderzheaven.com/2012/07/14/http-call-repeatedly-service-android/
     }
 
     @Override
