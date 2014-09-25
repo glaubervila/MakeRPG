@@ -5,4 +5,16 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
+
+    <!--Character-->
+    <string name="nome">Nome</string>
+    <string name="idade">Idade</string>
+    <string name="classe">Classe</string>
+    <string name="atributos">Atributos</string>
+    <string name="hp">HP</string>
+    <string name="atk">ATK</string>
+    <string name="def">DEF</string>
+    <string name="int">INT</string>
+
+
 </resources>
